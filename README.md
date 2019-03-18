@@ -11,4 +11,6 @@ keras_patameter_classification.py可以传参数直接训练预测。
 
 bert_classification为bert用于分类的文件，执行命令见keaport/bert：
 
+torch_text_classify.py  torch实现rnn文本分类
+
 transform讲解不错的博客：https://jalammar.github.io/illustrated-transformer/
